@@ -22,13 +22,12 @@ const Hero = () => {
           <span className="text-gradient">C O R B E C</span>{" "}
         </h1>
         <p className={`${styles.paragraph} max-w-[1000px] mt-5`}>
-          <span className="text-gradient">CO</span> nnectivity – Connectivity is
+          <span className="text-gradient">CO</span>nnectivity – Connectivity is
           at the core of everything we do.{" "}
-          <span className="text-gradient">R</span> elia
-          <span className="text-gradient">B</span> ility – Ability to be
-          trusted.
-          <span className="text-gradient">E</span> mpowering
-          <span className="text-gradient">C</span> ommunication – Our Commitment
+          <span className="text-gradient">R</span>elia
+          <span className="text-gradient">B</span>ility – Ability to be trusted.
+          <span className="text-gradient">E</span>mpowering
+          <span className="text-gradient">C</span>ommunication – Our Commitment
           in providing telecoms services, solutions and innovations.
         </p>
       </div>
