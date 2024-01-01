@@ -26,7 +26,7 @@ const Hero = () => {
           at the core of everything we do.{" "}
           <span className="text-gradient">R</span>elia
           <span className="text-gradient">B</span>ility – Ability to be trusted.
-          <span className="text-gradient">E</span>mpowering
+          <span className="text-gradient">E</span>mpowering{" "}
           <span className="text-gradient">C</span>ommunication – Our Commitment
           in providing telecoms services, solutions and innovations.
         </p>
